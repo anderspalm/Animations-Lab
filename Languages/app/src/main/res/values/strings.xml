@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Languages</string>
+    <string name="portrait_mode">Portrait Mode!</string>
+    <string name="send_en">Submit</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DesigningForMultipleDevices</string>
+    <string name="description">We want to know what will happen in three months</string>
+    <string name="button">CLICK ME:)</string>
+</resources>
